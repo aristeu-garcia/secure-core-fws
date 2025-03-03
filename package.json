@@ -8,7 +8,7 @@
   "type": "module",
   "scripts": {
     "start": "node --watch --no-warnings ./src/server.js",
-    "test:coverage": "jest --coverage --passWithNoTests"
+    "test:coverage": "jest --coverage --passWithNoTests --detectOpenHandles"
   },
   "dependencies": {
     "cookie-parser": "^1.4.7",
