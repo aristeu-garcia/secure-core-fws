@@ -1,5 +1,5 @@
 import logger from "../config/logger.js";
-import packageJson from "../../package.json" assert { type: "json" };
+const packageJson = require("../../package.json");
 
 /**
  * @param {import("express").Request} _
