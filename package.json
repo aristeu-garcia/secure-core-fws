@@ -1,0 +1,28 @@
+{
+  "name": "fsw-core",
+  "version": "1.0.0",
+  "description": "This is a new back-end core of fsw",
+  "main": "./src/server.js",
+  "author": "Aristeu Garcia",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch --no-warnings ./src/server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "ldap-authentication": "^3.3.2",
+    "ldapts": "^7.3.1",
+    "perfect-express-sanitizer": "^2.0.2",
+    "sanitize-html": "^2.14.0",
+    "sqlstring": "^2.3.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.17.0",
+    "xss": "^1.0.15",
+    "zod": "^3.24.2"
+  }
+}

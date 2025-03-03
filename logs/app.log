@@ -1,0 +1,999 @@
+2025-02-18 21:37:43 [info]: Servidor rodando na porta 3000
+2025-02-18 21:39:44 [info]: Servidor rodando na porta 3000
+2025-02-18 21:40:10 [info]: Servidor rodando na porta 3000
+2025-02-18 21:44:56 [info]: GET /api/health-check
+2025-02-18 21:44:56 [error]: Erro: undefined
+2025-02-18 21:47:28 [info]: Servidor rodando na porta 3000
+2025-02-18 21:47:32 [info]: GET /api/health-check
+2025-02-18 21:47:32 [error]: Erro: undefined
+2025-02-18 21:47:34 [info]: GET /api/health-check
+2025-02-18 21:47:34 [error]: Erro: undefined
+2025-02-18 21:47:34 [info]: GET /api/health-check
+2025-02-18 21:47:34 [error]: Erro: undefined
+2025-02-18 21:47:34 [info]: GET /api/health-check
+2025-02-18 21:47:34 [error]: Erro: undefined
+2025-02-18 21:47:35 [info]: GET /api/health-check
+2025-02-18 21:47:35 [error]: Erro: undefined
+2025-02-18 21:47:35 [info]: GET /api/health-check
+2025-02-18 21:47:35 [error]: Erro: undefined
+2025-02-18 21:47:35 [info]: GET /api/health-check
+2025-02-18 21:47:35 [error]: Erro: undefined
+2025-02-18 21:47:42 [info]: Servidor rodando na porta 3000
+2025-02-18 21:47:45 [info]: GET /api/health-check
+2025-02-18 21:47:45 [error]: Erro: undefined
+2025-02-18 21:47:46 [info]: GET /api/health-check
+2025-02-18 21:47:46 [error]: Erro: undefined
+2025-02-18 21:47:47 [info]: GET /api/health-check
+2025-02-18 21:47:47 [error]: Erro: undefined
+2025-02-18 21:47:47 [info]: GET /api/health-check
+2025-02-18 21:47:47 [error]: Erro: undefined
+2025-02-18 21:47:47 [info]: GET /api/health-check
+2025-02-18 21:47:47 [error]: Erro: undefined
+2025-02-18 21:47:47 [info]: GET /api/health-check
+2025-02-18 21:47:47 [error]: Erro: undefined
+2025-02-18 21:49:53 [info]: Servidor rodando na porta 3000
+2025-02-18 21:49:59 [info]: GET /api/health-check
+2025-02-18 21:49:59 [info]: GET /favicon.ico
+2025-02-18 21:52:18 [info]: Servidor rodando na porta 3000
+2025-02-18 21:52:23 [info]: Servidor rodando na porta 3000
+2025-02-18 21:52:33 [info]: GET /api/health-check
+2025-02-18 21:53:56 [info]: Servidor rodando na porta 3000
+2025-02-18 21:54:10 [info]: Servidor rodando na porta 3000
+2025-02-18 21:54:14 [info]: GET /api/health-check
+2025-02-18 21:54:14 [error]: Error occurred while getting health check: caiu aquiii
+2025-02-18 21:54:24 [info]: Servidor rodando na porta 3000
+2025-02-18 21:56:31 [info]: ✅ Environment variables loaded
+2025-02-18 21:56:31 [info]: Servidor rodando na porta 3000
+2025-02-18 21:58:49 [info]: ✅ Environment variables loaded
+2025-02-18 21:58:49 [info]: Servidor rodando na porta 3000
+2025-02-18 22:37:00 [info]: ✅ Environment variables loaded
+2025-02-18 22:37:00 [info]: Servidor rodando na porta 3000
+2025-02-18 22:37:28 [info]: ✅ Environment variables loaded
+2025-02-18 22:37:28 [info]: Servidor rodando na porta 3000
+2025-02-18 22:37:54 [info]: ✅ Environment variables loaded
+2025-02-18 22:37:54 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:08 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:08 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:10 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:10 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:19 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:19 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:23 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:23 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:25 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:25 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:26 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:26 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:28 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:28 [info]: Servidor rodando na porta 3000
+2025-02-18 22:39:33 [info]: ✅ Environment variables loaded
+2025-02-18 22:39:33 [info]: Servidor rodando na porta 3000
+2025-02-18 22:41:40 [info]: ✅ Environment variables loaded
+2025-02-18 22:41:40 [info]: Servidor rodando na porta 3000
+2025-02-19 17:34:56 [INFO]: Servidor rodando na porta 3000
+2025-02-19 17:44:22 [info]: Servidor rodando na porta 3000
+2025-02-19 17:44:32 [info]: Servidor rodando na porta 3000
+2025-02-19 17:44:43 [info]: Servidor rodando na porta 3000
+2025-02-19 17:45:23 [info]: Servidor rodando na porta 3000
+2025-02-19 20:12:45 [info]: Servidor rodando na porta 3000
+2025-02-19 20:13:29 [info]: Servidor rodando na porta 3000
+2025-02-19 20:13:57 [info]: GET /
+2025-02-19 20:14:05 [info]: GET /api/health-check
+2025-02-19 20:15:11 [info]: Servidor rodando na porta 3000
+2025-02-19 20:15:17 [info]: GET /api/health-check
+2025-02-19 20:15:17 [error]: Error occurred while getting health check: not auth
+2025-02-19 20:17:00 [info]: Servidor rodando na porta 3000
+2025-02-19 20:17:26 [info]: Servidor rodando na porta 3000
+2025-02-19 20:17:32 [info]: GET /api/health-check
+2025-02-19 20:17:32 [info]: Inside get health check controller
+2025-02-19 20:17:59 [info]: Servidor rodando na porta 3000
+2025-02-19 20:18:07 [info]: GET /api/health-check
+2025-02-19 20:18:07 [info]: Inside get health check controller [object Object]
+2025-02-19 20:18:28 [info]: Servidor rodando na porta 3000
+2025-02-19 20:18:32 [info]: GET /api/health-check
+2025-02-19 20:18:51 [info]: Servidor rodando na porta 3000
+2025-02-19 20:18:54 [info]: GET /api/health-check
+2025-02-19 20:18:56 [info]: GET /api/health-check
+2025-02-19 20:18:56 [info]: GET /api/health-check
+2025-02-19 20:18:56 [info]: GET /api/health-check
+2025-02-19 20:18:57 [info]: GET /api/health-check
+2025-02-19 20:19:28 [info]: Servidor rodando na porta 3000
+2025-02-19 20:19:32 [info]: GET /api/health-check
+2025-02-19 20:19:32 [info]: Inside get health check controller {
+  "user": null
+}
+2025-02-19 20:20:10 [info]: Servidor rodando na porta 3000
+2025-02-19 20:21:22 [info]: Servidor rodando na porta 3000
+2025-02-19 20:38:57 [info]: Servidor rodando na porta 3000
+2025-02-19 20:39:06 [info]: GET /api/health-check
+2025-02-19 20:39:06 [error]: Error occurred while getting health check: Cannot read properties of undefined (reading 'isConnected')
+2025-02-19 20:39:29 [info]: Servidor rodando na porta 3000
+2025-02-19 20:39:31 [info]: GET /api/health-check
+2025-02-19 20:39:31 [error]: Error occurred while getting health check: Cannot read properties of undefined (reading 'isConnected')
+2025-02-19 20:40:25 [info]: Servidor rodando na porta 3000
+2025-02-19 20:40:25 [info]: Servidor rodando na porta 3000
+2025-02-19 20:40:30 [info]: GET /api/health-check
+2025-02-19 20:40:30 [error]: Error occurred while getting health check: Cannot read properties of undefined (reading 'isConnected')
+2025-02-19 20:40:36 [info]: Servidor rodando na porta 3000
+2025-02-19 20:40:37 [info]: Servidor rodando na porta 3000
+2025-02-19 20:40:38 [info]: Servidor rodando na porta 3000
+2025-02-19 20:40:41 [info]: GET /api/health-check
+2025-02-19 20:40:50 [info]: Servidor rodando na porta 3000
+2025-02-19 20:40:51 [info]: Servidor rodando na porta 3000
+2025-02-19 20:40:54 [info]: GET /api/health-check
+2025-02-19 20:40:54 [error]: Error occurred while getting health check: Cannot read properties of undefined (reading 'isConnected')
+2025-02-19 20:42:43 [info]: Servidor rodando na porta 3000
+2025-02-19 20:42:44 [info]: Servidor rodando na porta 3000
+2025-02-19 20:42:53 [info]: GET /api/health-check
+2025-02-19 20:42:53 [error]: Error occurred while getting health check: Cannot read properties of undefined (reading 'isConnected')
+2025-02-19 20:46:32 [info]: Servidor rodando na porta 3000
+2025-02-19 20:46:36 [info]: GET /api/health-check
+2025-02-19 20:46:36 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 20:46:47 [info]: Servidor rodando na porta 3000
+2025-02-19 20:46:50 [info]: GET /api/health-check
+2025-02-19 20:47:00 [info]: Servidor rodando na porta 3000
+2025-02-19 20:47:05 [info]: GET /api/health-check
+2025-02-19 20:47:35 [info]: Servidor rodando na porta 3000
+2025-02-19 20:47:38 [info]: GET /api/health-check
+2025-02-19 20:48:06 [info]: Servidor rodando na porta 3000
+2025-02-19 20:48:06 [info]: Servidor rodando na porta 3000
+2025-02-19 20:48:09 [info]: Servidor rodando na porta 3000
+2025-02-19 20:48:09 [info]: Servidor rodando na porta 3000
+2025-02-19 20:48:12 [info]: GET /api/health-check
+2025-02-19 20:48:12 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 20:48:32 [info]: Servidor rodando na porta 3000
+2025-02-19 20:48:34 [info]: GET /api/health-check
+2025-02-19 20:48:34 [error]: Error occurred while getting health check: 80090308: LdapErr: DSID-0C090569, comment: AcceptSecurityContext error, data 57, v4563  Code: 0x31
+2025-02-19 20:49:00 [info]: Servidor rodando na porta 3000
+2025-02-19 20:49:00 [info]: Servidor rodando na porta 3000
+2025-02-19 20:49:02 [info]: GET /api/health-check
+2025-02-19 20:49:02 [error]: Error occurred while getting health check: 80090308: LdapErr: DSID-0C090569, comment: AcceptSecurityContext error, data 57, v4563  Code: 0x31
+2025-02-19 20:49:15 [info]: Servidor rodando na porta 3000
+2025-02-19 20:49:18 [info]: GET /api/health-check
+2025-02-19 20:49:18 [error]: Error occurred while getting health check: 80090308: LdapErr: DSID-0C090569, comment: AcceptSecurityContext error, data 57, v4563  Code: 0x31
+2025-02-19 20:50:32 [info]: Servidor rodando na porta 3000
+2025-02-19 20:50:34 [info]: GET /api/health-check
+2025-02-19 20:50:34 [error]: Error occurred while getting health check: 80090308: LdapErr: DSID-0C090569, comment: AcceptSecurityContext error, data 57, v4563  Code: 0x31
+2025-02-19 20:51:36 [info]: Servidor rodando na porta 3000
+2025-02-19 20:51:39 [info]: GET /api/health-check
+2025-02-19 20:51:54 [info]: Servidor rodando na porta 3000
+2025-02-19 20:51:54 [info]: Servidor rodando na porta 3000
+2025-02-19 20:52:14 [info]: Servidor rodando na porta 3000
+2025-02-19 20:52:17 [info]: Servidor rodando na porta 3000
+2025-02-19 20:52:23 [info]: Servidor rodando na porta 3000
+2025-02-19 20:52:26 [info]: GET /api/health-check
+2025-02-19 20:52:26 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 20:53:11 [info]: Servidor rodando na porta 3000
+2025-02-19 20:53:14 [info]: GET /api/health-check
+2025-02-19 20:53:14 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 20:55:05 [info]: Servidor rodando na porta 3000
+2025-02-19 20:55:22 [info]: Servidor rodando na porta 3000
+2025-02-19 20:55:45 [info]: Servidor rodando na porta 3000
+2025-02-19 20:55:48 [info]: GET /api/health-check
+2025-02-19 20:55:49 [error]: Error occurred while getting health check: 80090308: LdapErr: DSID-0C090569, comment: AcceptSecurityContext error, data 57, v4563  Code: 0x31
+2025-02-19 20:56:05 [info]: Servidor rodando na porta 3000
+2025-02-19 20:56:08 [info]: GET /api/health-check
+2025-02-19 20:56:08 [error]: Error occurred while getting health check: "TLSv1.0" is not a valid minimum TLS protocol version
+2025-02-19 20:56:25 [info]: Servidor rodando na porta 3000
+2025-02-19 20:56:27 [info]: GET /api/health-check
+2025-02-19 20:56:27 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 20:59:19 [info]: Servidor rodando na porta 3000
+2025-02-19 20:59:19 [info]: Servidor rodando na porta 3000
+2025-02-19 20:59:24 [info]: GET /api/health-check
+2025-02-19 20:59:24 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 20:59:29 [info]: Servidor rodando na porta 3000
+2025-02-19 20:59:54 [info]: Servidor rodando na porta 3000
+2025-02-19 20:59:56 [info]: GET /api/health-check
+2025-02-19 20:59:56 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 21:00:45 [info]: Servidor rodando na porta 3000
+2025-02-19 21:00:54 [info]: GET /api/health-check
+2025-02-19 21:00:54 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 21:01:03 [info]: Servidor rodando na porta 3000
+2025-02-19 21:01:03 [info]: Servidor rodando na porta 3000
+2025-02-19 21:01:06 [info]: GET /api/health-check
+2025-02-19 21:01:06 [error]: Error occurred while getting health check: "TLSv2" is not a valid minimum TLS protocol version
+2025-02-19 21:01:32 [info]: Servidor rodando na porta 3000
+2025-02-19 21:01:32 [info]: Servidor rodando na porta 3000
+2025-02-19 21:01:35 [info]: GET /api/health-check
+2025-02-19 21:01:35 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 21:02:37 [info]: Servidor rodando na porta 3000
+2025-02-19 21:02:38 [info]: Servidor rodando na porta 3000
+2025-02-19 21:02:41 [info]: GET /api/health-check
+2025-02-19 21:02:41 [error]: Error occurred while getting health check: 80090308: LdapErr: DSID-0C090569, comment: AcceptSecurityContext error, data 52e, v4563  Code: 0x31
+2025-02-19 21:03:03 [info]: Servidor rodando na porta 3000
+2025-02-19 21:03:05 [info]: GET /api/health-check
+2025-02-19 21:03:05 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 21:03:19 [info]: Servidor rodando na porta 3000
+2025-02-19 21:03:21 [info]: GET /api/health-check
+2025-02-19 21:03:21 [error]: Error occurred while getting health check: read ECONNRESET
+2025-02-19 21:05:55 [info]: Servidor rodando na porta 3000
+2025-02-19 21:06:03 [info]: GET /api/health-check
+2025-02-19 21:06:36 [info]: Servidor rodando na porta 3000
+2025-02-19 21:06:38 [info]: GET /api/health-check
+2025-02-19 21:06:59 [info]: Servidor rodando na porta 3000
+2025-02-19 21:07:02 [info]: GET /api/health-check
+2025-02-19 21:07:40 [info]: Servidor rodando na porta 3000
+2025-02-19 21:07:44 [info]: GET /api/health-check
+2025-02-19 21:08:04 [info]: Servidor rodando na porta 3000
+2025-02-19 21:08:06 [info]: GET /api/health-check
+2025-02-19 21:08:13 [info]: Servidor rodando na porta 3000
+2025-02-19 21:08:17 [info]: GET /api/health-check
+2025-02-19 21:08:52 [info]: Servidor rodando na porta 3000
+2025-02-19 21:09:21 [info]: Servidor rodando na porta 3000
+2025-02-19 21:09:23 [info]: GET /api/health-check
+2025-02-19 21:09:39 [info]: Servidor rodando na porta 3000
+2025-02-19 21:09:59 [info]: GET /api/health-check
+2025-02-19 21:10:36 [info]: Servidor rodando na porta 3000
+2025-02-19 21:10:39 [info]: GET /api/health-check
+2025-02-19 21:24:51 [info]: Servidor rodando na porta 3000
+2025-02-19 21:24:51 [info]: Servidor rodando na porta 3000
+2025-02-19 21:24:55 [info]: GET /api/health-check
+2025-02-19 21:25:24 [info]: Servidor rodando na porta 3000
+2025-02-19 21:25:27 [info]: GET /api/health-check
+2025-02-19 21:25:43 [info]: Servidor rodando na porta 3000
+2025-02-19 21:25:44 [info]: Servidor rodando na porta 3000
+2025-02-19 21:25:44 [info]: Servidor rodando na porta 3000
+2025-02-19 21:25:45 [info]: Servidor rodando na porta 3000
+2025-02-19 21:25:51 [info]: Servidor rodando na porta 3000
+2025-02-19 21:25:54 [info]: GET /api/health-check
+2025-02-19 21:26:03 [info]: Servidor rodando na porta 3000
+2025-02-19 21:26:03 [info]: Servidor rodando na porta 3000
+2025-02-19 21:26:05 [info]: GET /api/health-check
+2025-02-19 21:26:18 [info]: Servidor rodando na porta 3000
+2025-02-19 21:26:20 [info]: GET /api/health-check
+2025-02-19 21:26:30 [info]: Servidor rodando na porta 3000
+2025-02-19 21:26:33 [info]: GET /api/health-check
+2025-02-19 21:27:00 [info]: Servidor rodando na porta 3000
+2025-02-19 21:27:02 [info]: GET /api/health-check
+2025-02-19 21:27:11 [info]: Servidor rodando na porta 3000
+2025-02-19 21:27:13 [info]: GET /api/health-check
+2025-02-19 21:27:45 [info]: Servidor rodando na porta 3000
+2025-02-19 21:27:49 [info]: GET /api/health-check
+2025-02-19 21:29:22 [info]: Servidor rodando na porta 3000
+2025-02-19 21:29:26 [info]: GET /api/health-check
+2025-02-19 21:32:58 [info]: Servidor rodando na porta 3000
+2025-02-19 21:33:02 [info]: GET /api/health-check
+2025-02-19 21:33:25 [info]: Servidor rodando na porta 3000
+2025-02-19 21:33:27 [info]: GET /api/health-check
+2025-02-19 21:35:59 [info]: Servidor rodando na porta 3000
+2025-02-19 21:36:11 [info]: Servidor rodando na porta 3000
+2025-02-19 21:36:15 [info]: GET /api/health-check
+2025-02-19 21:36:32 [info]: Servidor rodando na porta 3000
+2025-02-19 21:36:38 [info]: Servidor rodando na porta 3000
+2025-02-19 21:37:09 [info]: Servidor rodando na porta 3000
+2025-02-19 21:37:12 [info]: GET /api/health-check
+2025-02-19 21:37:25 [info]: Servidor rodando na porta 3000
+2025-02-19 21:37:57 [info]: Servidor rodando na porta 3000
+2025-02-19 21:38:00 [info]: GET /api/health-check
+2025-02-19 21:38:29 [info]: Servidor rodando na porta 3000
+2025-02-19 21:38:32 [info]: GET /api/health-check
+2025-02-19 21:38:46 [info]: Servidor rodando na porta 3000
+2025-02-19 21:38:48 [info]: GET /api/health-check
+2025-02-19 21:39:04 [info]: Servidor rodando na porta 3000
+2025-02-19 21:39:07 [info]: GET /api/health-check
+2025-02-19 21:41:02 [info]: Servidor rodando na porta 3000
+2025-02-19 21:41:06 [info]: GET /api/health-check
+2025-02-19 21:41:34 [info]: Servidor rodando na porta 3000
+2025-02-19 21:41:38 [info]: GET /api/health-check
+2025-02-19 21:41:46 [info]: Servidor rodando na porta 3000
+2025-02-19 21:41:49 [info]: GET /api/health-check
+2025-02-19 21:42:09 [info]: Servidor rodando na porta 3000
+2025-02-19 21:42:13 [info]: GET /api/health-check
+2025-02-19 21:42:22 [info]: Servidor rodando na porta 3000
+2025-02-19 21:42:25 [info]: Servidor rodando na porta 3000
+2025-02-19 21:42:27 [info]: GET /api/health-check
+2025-02-19 21:42:32 [info]: Servidor rodando na porta 3000
+2025-02-19 21:42:34 [info]: Servidor rodando na porta 3000
+2025-02-19 21:42:37 [info]: GET /api/health-check
+2025-02-19 21:42:46 [info]: Servidor rodando na porta 3000
+2025-02-19 21:42:48 [info]: GET /api/health-check
+2025-02-19 21:42:55 [info]: Servidor rodando na porta 3000
+2025-02-19 21:42:57 [info]: GET /api/health-check
+2025-02-19 21:43:05 [info]: Servidor rodando na porta 3000
+2025-02-19 21:43:11 [info]: GET /api/health-check
+2025-02-19 21:47:23 [info]: Servidor rodando na porta 3000
+2025-02-19 21:47:35 [info]: Servidor rodando na porta 3000
+2025-02-19 21:47:42 [info]: GET /api/health-check
+2025-02-19 21:54:05 [info]: Servidor rodando na porta 3000
+2025-02-19 21:55:49 [info]: Servidor rodando na porta 3000
+2025-02-19 21:56:57 [info]: Servidor rodando na porta 3000
+2025-02-19 21:57:00 [info]: Servidor rodando na porta 3000
+2025-02-19 21:57:09 [info]: GET /api/health-check
+2025-02-19 21:57:46 [info]: Servidor rodando na porta 3000
+2025-02-19 21:57:47 [info]: Servidor rodando na porta 3000
+2025-02-19 21:57:49 [info]: GET /api/health-check
+2025-02-19 21:58:55 [info]: Servidor rodando na porta 3000
+2025-02-19 21:58:57 [info]: GET /api/health-check
+2025-02-19 21:59:02 [info]: Servidor rodando na porta 3000
+2025-02-19 22:00:01 [info]: Servidor rodando na porta 3000
+2025-02-19 22:00:01 [info]: Servidor rodando na porta 3000
+2025-02-19 22:00:03 [info]: GET /api/health-check
+2025-02-20 19:24:11 [info]: Servidor rodando na porta 3000
+2025-02-20 20:00:22 [info]: Servidor rodando na porta 3000
+2025-02-20 20:13:52 [info]: POST /api/login
+2025-02-20 20:13:52 [error]: Error occurred while getting health check: Cannot destructure property 'username' of 'req.body' as it is undefined.
+2025-02-20 20:14:13 [info]: Servidor rodando na porta 3000
+2025-02-20 20:14:29 [info]: Servidor rodando na porta 3000
+2025-02-20 20:14:34 [info]: POST /api/login
+2025-02-20 20:14:34 [error]: Error occurred while getting health check: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2025-02-20 20:15:16 [info]: Servidor rodando na porta 3000
+2025-02-20 20:15:23 [info]: POST /api/login
+2025-02-20 20:15:23 [error]: Error occurred while getting health check: Error validating schema: [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [],
+    "message": "Required"
+  }
+]
+2025-02-20 20:16:13 [info]: Servidor rodando na porta 3000
+2025-02-20 20:16:17 [info]: Servidor rodando na porta 3000
+2025-02-20 20:16:22 [info]: POST /api/login
+2025-02-20 20:16:22 [error]: Error occurred while getting health check: username is not defined
+2025-02-20 20:16:47 [info]: Servidor rodando na porta 3000
+2025-02-20 20:16:50 [info]: POST /api/login
+2025-02-20 20:16:50 [error]: Error occurred while getting health check: Cannot destructure property 'user' of 'authData' as it is undefined.
+2025-02-20 20:17:31 [info]: Servidor rodando na porta 3000
+2025-02-20 20:17:33 [info]: POST /api/login
+2025-02-20 20:17:33 [error]: Error occurred while getting health check: Cannot destructure property 'user' of 'authData' as it is undefined.
+2025-02-20 20:18:26 [info]: POST /api/login/eu
+2025-02-20 20:18:34 [info]: POST /api/login
+2025-02-20 20:18:34 [error]: Error occurred while getting health check: Cannot destructure property 'user' of 'authData' as it is undefined.
+2025-02-20 20:19:54 [info]: Servidor rodando na porta 3000
+2025-02-20 20:19:56 [info]: POST /api/login
+2025-02-20 20:25:15 [info]: Servidor rodando na porta 3000
+2025-02-20 20:25:39 [info]: Servidor rodando na porta 3000
+2025-02-20 20:26:03 [info]: Servidor rodando na porta 3000
+2025-02-20 20:26:08 [info]: Servidor rodando na porta 3000
+2025-02-22 20:25:57 [info]: Servidor rodando na porta 3000
+2025-02-23 13:06:11 [info]: Servidor rodando na porta 3000
+2025-02-23 13:26:13 [info]: Servidor rodando na porta 3000
+2025-02-23 13:31:49 [info]: Servidor rodando na porta 3000
+2025-02-23 13:49:54 [info]: Servidor rodando na porta 3000
+2025-02-23 13:52:53 [info]: Servidor rodando na porta 3000
+2025-02-23 13:53:20 [info]: Servidor rodando na porta 3000
+2025-02-23 13:58:17 [info]: Servidor rodando na porta 3000
+2025-02-23 14:30:18 [info]: Servidor rodando na porta 3000
+2025-02-23 14:30:22 [info]: Servidor rodando na porta 3000
+2025-02-23 14:52:42 [info]: Servidor rodando na porta 3000
+2025-02-23 14:54:32 [info]: Servidor rodando na porta 3000
+2025-02-23 15:05:21 [info]: Servidor rodando na porta 3000
+2025-02-23 15:05:25 [info]: Servidor rodando na porta 3000
+2025-02-23 15:06:54 [info]: Servidor rodando na porta 3000
+2025-02-23 15:06:55 [info]: Servidor rodando na porta 3000
+2025-02-23 15:14:57 [info]: Servidor rodando na porta 3000
+2025-02-23 15:15:25 [info]: Servidor rodando na porta 3000
+2025-02-23 15:15:38 [info]: Servidor rodando na porta 3000
+2025-02-23 15:15:54 [info]: Servidor rodando na porta 3000
+2025-02-23 15:16:01 [info]: Servidor rodando na porta 3000
+2025-02-23 15:16:30 [info]: POST /api/login
+2025-02-23 15:16:56 [info]: Servidor rodando na porta 3000
+2025-02-23 15:16:59 [info]: POST /api/login
+2025-02-23 15:16:59 [error]: Error occurred while getting health check: createAccessToken is not defined
+2025-02-23 15:17:11 [info]: POST /api/login
+2025-02-23 15:17:11 [error]: Error occurred while getting health check: createAccessToken is not defined
+2025-02-23 15:17:17 [info]: POST /api/login
+2025-02-23 15:17:17 [error]: Error occurred while getting health check: createAccessToken is not defined
+2025-02-23 15:17:39 [info]: Servidor rodando na porta 3000
+2025-02-23 15:17:46 [info]: Servidor rodando na porta 3000
+2025-02-23 15:17:48 [info]: POST /api/login
+2025-02-23 15:17:48 [error]: Error occurred while getting health check: refreshTokenDB is not defined
+2025-02-23 15:18:41 [info]: Servidor rodando na porta 3000
+2025-02-23 15:20:47 [info]: Servidor rodando na porta 3000
+2025-02-23 15:20:54 [info]: Servidor rodando na porta 3000
+2025-02-23 15:20:59 [info]: Servidor rodando na porta 3000
+2025-02-23 15:21:15 [info]: Servidor rodando na porta 3000
+2025-02-23 15:21:19 [info]: POST /api/login
+2025-02-23 15:21:19 [error]: Error occurred while getting health check: setRefreshCookie is not defined
+2025-02-23 15:22:19 [info]: Servidor rodando na porta 3000
+2025-02-23 15:22:26 [info]: POST /api/login
+2025-02-23 15:22:45 [info]: POST /api/login
+2025-02-23 15:23:10 [info]: Servidor rodando na porta 3000
+2025-02-23 15:24:33 [info]: POST /api/login
+2025-02-23 15:26:40 [info]: Servidor rodando na porta 3000
+2025-02-23 15:29:22 [info]: Servidor rodando na porta 3000
+2025-02-23 15:29:28 [info]: POST /api/login
+2025-02-23 15:30:17 [info]: Servidor rodando na porta 3000
+2025-02-23 15:30:20 [info]: POST /api/login
+2025-02-23 15:30:20 [warn]: XSS detectado no campo: user
+2025-02-23 15:30:40 [info]: POST /api/login
+2025-02-23 15:30:50 [info]: POST /api/login
+2025-02-23 15:31:22 [info]: Servidor rodando na porta 3000
+2025-02-23 15:31:24 [info]: Servidor rodando na porta 3000
+2025-02-23 15:38:33 [info]: Servidor rodando na porta 3000
+2025-02-23 15:38:38 [info]: POST /api/login
+2025-02-23 15:38:53 [info]: Servidor rodando na porta 3000
+2025-02-23 15:38:53 [info]: Servidor rodando na porta 3000
+2025-02-23 15:38:55 [info]: POST /api/login
+2025-02-23 15:39:05 [info]: Servidor rodando na porta 3000
+2025-02-23 17:18:09 [info]: POST /api/login
+2025-02-23 17:18:28 [info]: Servidor rodando na porta 3000
+2025-02-23 17:18:39 [info]: Servidor rodando na porta 3000
+2025-02-23 17:18:40 [info]: Servidor rodando na porta 3000
+2025-02-23 17:18:44 [info]: POST /api/login
+2025-02-23 17:19:17 [info]: POST /api/login
+2025-02-23 17:19:17 [error]: Error occurred while getting health check: User name and password are required
+2025-02-23 17:24:57 [info]: Servidor rodando na porta 3000
+2025-02-23 17:25:03 [info]: Servidor rodando na porta 3000
+2025-02-23 17:30:34 [info]: Servidor rodando na porta 3000
+2025-02-23 17:30:38 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:30:38 [info]: POST /api/login
+2025-02-23 17:31:05 [info]: Servidor rodando na porta 3000
+2025-02-23 17:31:12 [info]: Servidor rodando na porta 3000
+2025-02-23 17:31:16 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:31:16 [info]: POST /api/login
+2025-02-23 17:31:21 [info]: Servidor rodando na porta 3000
+2025-02-23 17:31:22 [info]: Servidor rodando na porta 3000
+2025-02-23 17:31:31 [info]: Servidor rodando na porta 3000
+2025-02-23 17:31:33 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:31:33 [info]: POST /api/login
+2025-02-23 17:31:45 [info]: Servidor rodando na porta 3000
+2025-02-23 17:31:47 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:31:47 [info]: POST /api/login
+2025-02-23 17:37:47 [info]: Servidor rodando na porta 3000
+2025-02-23 17:37:47 [info]: Servidor rodando na porta 3000
+2025-02-23 17:37:51 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:37:51 [info]: POST /api/login
+2025-02-23 17:38:11 [info]: Servidor rodando na porta 3000
+2025-02-23 17:39:42 [info]: Servidor rodando na porta 3000
+2025-02-23 17:39:49 [info]: Servidor rodando na porta 3000
+2025-02-23 17:40:00 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:40:00 [info]: POST /api/login
+2025-02-23 17:40:30 [info]: Servidor rodando na porta 3000
+2025-02-23 17:40:32 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:40:32 [info]: POST /api/login
+2025-02-23 17:40:42 [info]: Servidor rodando na porta 3000
+2025-02-23 17:40:46 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:40:46 [info]: POST /api/login
+2025-02-23 17:40:56 [info]: Servidor rodando na porta 3000
+2025-02-23 17:40:59 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:40:59 [info]: POST /api/login
+2025-02-23 17:41:15 [info]: Servidor rodando na porta 3000
+2025-02-23 17:42:12 [info]: Servidor rodando na porta 3000
+2025-02-23 17:42:17 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:42:17 [info]: POST /api/login
+2025-02-23 17:42:32 [info]: Servidor rodando na porta 3000
+2025-02-23 17:42:34 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:43:27 [info]: Servidor rodando na porta 3000
+2025-02-23 17:43:29 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:44:32 [info]: Servidor rodando na porta 3000
+2025-02-23 17:44:37 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:44:37 [info]: POST /api/login
+2025-02-23 17:44:41 [info]: Servidor rodando na porta 3000
+2025-02-23 17:44:42 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:44:42 [warn]: XSS detectado
+2025-02-23 17:44:50 [info]: Servidor rodando na porta 3000
+2025-02-23 17:44:52 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:44:52 [warn]: XSS detectado
+2025-02-23 17:46:46 [info]: Servidor rodando na porta 3000
+2025-02-23 17:46:46 [info]: Servidor rodando na porta 3000
+2025-02-23 17:46:50 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:46:50 [info]: POST /api/login
+2025-02-23 17:47:15 [info]: Servidor rodando na porta 3000
+2025-02-23 17:47:18 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:47:18 [info]: POST /api/login
+2025-02-23 17:47:29 [info]: Servidor rodando na porta 3000
+2025-02-23 17:47:30 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:47:30 [warn]: XSS detectado
+2025-02-23 17:47:39 [info]: Servidor rodando na porta 3000
+2025-02-23 17:47:40 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:47:40 [warn]: XSS detectado
+2025-02-23 17:47:51 [info]: Servidor rodando na porta 3000
+2025-02-23 17:47:53 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:47:53 [warn]: XSS detectado
+2025-02-23 17:48:07 [info]: Servidor rodando na porta 3000
+2025-02-23 17:48:09 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:48:09 [info]: POST /api/login
+2025-02-23 17:53:59 [info]: Servidor rodando na porta 3000
+2025-02-23 17:54:44 [info]: Servidor rodando na porta 3000
+2025-02-23 17:54:46 [info]: Servidor rodando na porta 3000
+2025-02-23 17:54:54 [info]: Servidor rodando na porta 3000
+2025-02-23 17:54:56 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 17:54:56 [info]: POST /api/login
+2025-02-23 17:59:52 [info]: Servidor rodando na porta 3000
+2025-02-23 17:59:52 [info]: Servidor rodando na porta 3000
+2025-02-23 17:59:57 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:00:24 [info]: Servidor rodando na porta 3000
+2025-02-23 18:00:26 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:00:26 [info]: POST /api/login
+2025-02-23 18:00:36 [info]: Servidor rodando na porta 3000
+2025-02-23 18:00:36 [info]: Servidor rodando na porta 3000
+2025-02-23 18:00:40 [info]: Servidor rodando na porta 3000
+2025-02-23 18:02:37 [info]: Servidor rodando na porta 3000
+2025-02-23 18:02:38 [info]: Servidor rodando na porta 3000
+2025-02-23 18:03:04 [info]: Servidor rodando na porta 3000
+2025-02-23 18:03:16 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:03:16 [info]: POST /api/login
+2025-02-23 18:14:45 [info]: Servidor rodando na porta 3000
+2025-02-23 18:14:47 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:14:47 [info]: POST /api/login
+2025-02-23 18:16:17 [info]: Servidor rodando na porta 3000
+2025-02-23 18:16:55 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:16:55 [info]: POST /api/login
+2025-02-23 18:17:04 [info]: Servidor rodando na porta 3000
+2025-02-23 18:17:06 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:17:06 [info]: POST /api/login
+2025-02-23 18:18:27 [info]: Servidor rodando na porta 3000
+2025-02-23 18:18:46 [info]: Servidor rodando na porta 3000
+2025-02-23 18:19:05 [info]: Servidor rodando na porta 3000
+2025-02-23 18:19:07 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:19:07 [info]: POST /api/login
+2025-02-23 18:19:24 [info]: Servidor rodando na porta 3000
+2025-02-23 18:19:25 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:19:25 [info]: POST /api/login
+2025-02-23 18:19:52 [info]: Servidor rodando na porta 3000
+2025-02-23 18:19:53 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:19:53 [info]: POST /api/login
+2025-02-23 18:21:26 [info]: Servidor rodando na porta 3000
+2025-02-23 18:21:26 [info]: Servidor rodando na porta 3000
+2025-02-23 18:21:28 [info]: Servidor rodando na porta 3000
+2025-02-23 18:21:30 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:21:30 [info]: POST /api/login
+2025-02-23 18:22:31 [info]: Servidor rodando na porta 3000
+2025-02-23 18:22:36 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:22:36 [info]: POST /api/login
+2025-02-23 18:23:12 [info]: Servidor rodando na porta 3000
+2025-02-23 18:23:12 [info]: Servidor rodando na porta 3000
+2025-02-23 18:23:14 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:23:31 [info]: Servidor rodando na porta 3000
+2025-02-23 18:23:33 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:24:00 [info]: Servidor rodando na porta 3000
+2025-02-23 18:24:02 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:24:02 [info]: POST /api/login
+2025-02-23 18:24:11 [info]: Servidor rodando na porta 3000
+2025-02-23 18:24:13 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:24:13 [info]: POST /api/login
+2025-02-23 18:24:35 [info]: Servidor rodando na porta 3000
+2025-02-23 18:24:37 [info]: Servidor rodando na porta 3000
+2025-02-23 18:24:44 [info]: Servidor rodando na porta 3000
+2025-02-23 18:24:46 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:24:46 [info]: POST /api/login
+2025-02-23 18:24:52 [info]: Servidor rodando na porta 3000
+2025-02-23 18:24:59 [info]: Servidor rodando na porta 3000
+2025-02-23 18:25:01 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:25:01 [info]: POST /api/login
+2025-02-23 18:25:17 [info]: Servidor rodando na porta 3000
+2025-02-23 18:25:19 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:25:19 [info]: POST /api/login
+2025-02-23 18:25:30 [info]: Servidor rodando na porta 3000
+2025-02-23 18:25:32 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:25:32 [info]: POST /api/login
+2025-02-23 18:25:39 [info]: Servidor rodando na porta 3000
+2025-02-23 18:26:02 [info]: Servidor rodando na porta 3000
+2025-02-23 18:26:04 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:26:04 [info]: POST /api/login
+2025-02-23 18:26:30 [info]: POST /api/login
+2025-02-23 18:26:39 [info]: Servidor rodando na porta 3000
+2025-02-23 18:26:39 [info]: Servidor rodando na porta 3000
+2025-02-23 18:26:44 [info]: Servidor rodando na porta 3000
+2025-02-23 18:26:46 [info]: POST /api/login
+2025-02-23 18:26:54 [warn]: AAAAAAA Potential XSS attack detected: user=<script>
+2025-02-23 18:26:54 [info]: POST /api/login
+2025-02-23 18:28:58 [info]: Servidor rodando na porta 3000
+2025-02-23 18:29:01 [warn]: AAAAAAA Potential XSS attack detected: user=<script>
+2025-02-23 18:29:01 [info]: POST /api/login
+2025-02-23 18:29:24 [info]: Servidor rodando na porta 3000
+2025-02-23 18:29:28 [info]: Servidor rodando na porta 3000
+2025-02-23 18:29:31 [warn]: AAAAAAA Potential XSS attack detected: user=<script>
+2025-02-23 18:29:43 [info]: Servidor rodando na porta 3000
+2025-02-23 18:29:47 [info]: Servidor rodando na porta 3000
+2025-02-23 18:29:49 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:30:21 [info]: Servidor rodando na porta 3000
+2025-02-23 18:30:25 [info]: Servidor rodando na porta 3000
+2025-02-23 18:30:27 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 18:30:47 [info]: POST /api/login
+2025-02-23 18:32:18 [info]: Servidor rodando na porta 3000
+2025-02-23 18:34:52 [info]: Servidor rodando na porta 3000
+2025-02-23 18:34:56 [info]: POST /api/login
+2025-02-23 18:35:00 [info]: POST /api/login
+2025-02-23 18:35:04 [info]: Servidor rodando na porta 3000
+2025-02-23 18:35:10 [info]: Servidor rodando na porta 3000
+2025-02-23 18:35:18 [info]: POST /api/login
+2025-02-23 18:35:32 [info]: Servidor rodando na porta 3000
+2025-02-23 18:35:34 [info]: Servidor rodando na porta 3000
+2025-02-23 18:35:53 [info]: Servidor rodando na porta 3000
+2025-02-23 18:35:59 [info]: Servidor rodando na porta 3000
+2025-02-23 18:36:01 [info]: No SQL injection detected in request
+2025-02-23 18:36:01 [info]: POST /api/login
+2025-02-23 18:36:21 [info]: No SQL injection detected in request
+2025-02-23 18:36:21 [info]: POST /api/login
+2025-02-23 18:37:17 [info]: Servidor rodando na porta 3000
+2025-02-23 18:37:22 [warn]: Potential SQL injection detected: user=SELECT * FROM USERS
+2025-02-23 18:37:32 [warn]: Potential SQL injection detected: user=SELECT
+2025-02-23 18:37:39 [warn]: Potential SQL injection detected: user=select
+2025-02-23 18:37:43 [info]: No SQL injection detected in request
+2025-02-23 18:37:43 [info]: POST /api/login
+2025-02-23 18:37:54 [warn]: Potential SQL injection detected: user=update
+2025-02-23 18:37:58 [warn]: Potential SQL injection detected: user=update
+2025-02-23 18:38:03 [warn]: Potential SQL injection detected: user=update from
+2025-02-23 18:38:20 [info]: Servidor rodando na porta 3000
+2025-02-23 18:38:24 [info]: Servidor rodando na porta 3000
+2025-02-23 18:38:28 [info]: Servidor rodando na porta 3000
+2025-02-23 18:38:33 [info]: Servidor rodando na porta 3000
+2025-02-23 18:38:45 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 19:22:04 [info]: Servidor rodando na porta 3000
+2025-02-23 19:23:31 [warn]: Potential XSS attack detected: user=<script>
+2025-02-23 19:23:58 [warn]: Potential SQL injection detected: user=select * 
+2025-02-23 19:24:19 [info]: POST /api/login
+2025-02-24 10:11:30 [info]: Servidor rodando na porta 3000
+2025-02-24 10:11:47 [info]: POST /api/login
+2025-02-24 10:12:29 [warn]: Potential SQL injection detected: user=select * from
+2025-02-24 10:13:00 [warn]: Potential XSS attack detected: user=<script>
+2025-02-24 19:42:10 [info]: Servidor rodando na porta 3000
+2025-02-24 19:47:29 [info]: Servidor rodando na porta 3000
+2025-02-24 19:47:29 [info]: Servidor rodando na porta 3000
+2025-02-24 19:49:58 [info]: Servidor rodando na porta 3000
+2025-02-24 19:51:07 [info]: Servidor rodando na porta 3000
+2025-02-24 20:25:01 [info]: Servidor rodando na porta 3000
+2025-02-24 20:26:37 [info]: Servidor rodando na porta 3000
+2025-02-24 20:27:35 [info]: Servidor rodando na porta 3000
+2025-02-24 20:28:19 [info]: Servidor rodando na porta 3000
+2025-02-24 20:28:54 [info]: Servidor rodando na porta 3000
+2025-02-24 20:30:43 [info]: Servidor rodando na porta 3000
+2025-02-24 20:35:55 [info]: Servidor rodando na porta 3000
+2025-02-24 20:36:04 [info]: Servidor rodando na porta 3000
+2025-02-24 20:54:30 [info]: Servidor rodando na porta 3000
+2025-02-24 21:01:06 [info]: Servidor rodando na porta 3000
+2025-02-24 21:04:23 [info]: Servidor rodando na porta 3000
+2025-02-24 21:04:25 [info]: Servidor rodando na porta 3000
+2025-02-24 21:07:32 [info]: Servidor rodando na porta 3000
+2025-02-24 21:13:42 [info]: Servidor rodando na porta 3000
+2025-02-24 21:14:44 [info]: POST /api/login
+2025-02-24 21:15:04 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:15:53 [info]: Servidor rodando na porta 3000
+2025-02-24 21:16:39 [info]: POST /api/login
+2025-02-24 21:16:59 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:17:06 [info]: Servidor rodando na porta 3000
+2025-02-24 21:17:10 [info]: POST /api/login
+2025-02-24 21:17:30 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:17:34 [info]: Servidor rodando na porta 3000
+2025-02-24 21:17:36 [info]: POST /api/login
+2025-02-24 21:17:56 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:23:28 [info]: Servidor rodando na porta 3000
+2025-02-24 21:23:32 [info]: POST /api/login
+2025-02-24 21:23:32 [error]: Error occurred while getting health check: ldap.forumsys.com is an invalid LDAP URL (protocol)
+2025-02-24 21:23:56 [info]: Servidor rodando na porta 3000
+2025-02-24 21:24:03 [info]: POST /api/login
+2025-02-24 21:24:03 [error]: Error occurred while authenticating to LDAP: 40C8FAF801000000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:../deps/openssl/openssl/ssl/statem/statem_lib.c:1988:
+
+2025-02-24 21:25:31 [info]: Servidor rodando na porta 3000
+2025-02-24 21:25:37 [info]: POST /api/login
+2025-02-24 21:25:57 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:31:06 [info]: Servidor rodando na porta 3000
+2025-02-24 21:31:10 [info]: POST /api/login
+2025-02-24 21:31:29 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:31:57 [info]: Servidor rodando na porta 3000
+2025-02-24 21:32:02 [info]: POST /api/login
+2025-02-24 21:32:22 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:32:32 [info]: Servidor rodando na porta 3000
+2025-02-24 21:32:35 [info]: POST /api/login
+2025-02-24 21:32:55 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:34:19 [info]: Servidor rodando na porta 3000
+2025-02-24 21:34:22 [info]: POST /api/login
+2025-02-24 21:34:42 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:35:51 [info]: Servidor rodando na porta 3000
+2025-02-24 21:35:54 [info]: POST /api/login
+2025-02-24 21:36:13 [error]: Error occurred while authenticating to LDAP: Socket error. Message type: BindRequest (0x60)
+read ECONNRESET
+2025-02-24 21:37:09 [info]: Servidor rodando na porta 3000
+2025-02-24 21:37:12 [info]: POST /api/login
+2025-02-24 21:37:42 [info]: Servidor rodando na porta 3000
+2025-02-24 21:37:45 [info]: POST /api/login
+2025-02-24 21:38:04 [info]: Servidor rodando na porta 3000
+2025-02-24 21:38:12 [info]: Servidor rodando na porta 3000
+2025-02-24 21:38:13 [info]: POST /api/login
+2025-02-24 21:38:13 [info]: Authenticating to LDAP...
+2025-02-24 21:38:30 [info]: Servidor rodando na porta 3000
+2025-02-24 21:38:36 [info]: Servidor rodando na porta 3000
+2025-02-24 21:38:39 [info]: POST /api/login
+2025-02-24 21:38:39 [info]: Authenticating to LDAP for user:
+2025-02-24 21:38:39 [info]: Authenticated to LDAP successfully for user:
+2025-02-24 21:38:53 [info]: Servidor rodando na porta 3000
+2025-02-24 21:39:03 [info]: Servidor rodando na porta 3000
+2025-02-24 21:39:19 [info]: Servidor rodando na porta 3000
+2025-02-24 21:39:38 [info]: Servidor rodando na porta 3000
+2025-02-24 21:39:41 [info]: POST /api/login
+2025-02-24 21:39:41 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 21:39:41 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 21:40:27 [info]: Servidor rodando na porta 3000
+2025-02-24 21:40:31 [info]: POST /api/login
+2025-02-24 21:40:31 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 21:40:31 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 21:40:31 [error]: Error occurred while getting health check: client.isConnected is not a function
+2025-02-24 21:42:33 [info]: Servidor rodando na porta 3000
+2025-02-24 21:43:24 [info]: Servidor rodando na porta 3000
+2025-02-24 21:43:29 [info]: POST /api/login
+2025-02-24 21:43:29 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 21:43:30 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 21:43:30 [info]: Disconnected from LDAP
+2025-02-24 21:44:03 [info]: Servidor rodando na porta 3000
+2025-02-24 21:46:29 [info]: Servidor rodando na porta 3000
+2025-02-24 21:47:04 [info]: Servidor rodando na porta 3000
+2025-02-24 22:07:05 [info]: Servidor rodando na porta 3000
+2025-02-24 22:10:44 [info]: Servidor rodando na porta 3000
+2025-02-24 22:14:21 [info]: Servidor rodando na porta 3000
+2025-02-24 22:17:37 [info]: Servidor rodando na porta 3000
+2025-02-24 22:17:46 [info]: Servidor rodando na porta 3000
+2025-02-24 22:25:01 [info]: GET /api/health-check
+2025-02-24 22:25:11 [info]: GET /api/health-check
+2025-02-24 22:25:50 [info]: GET /api/health-check
+2025-02-24 22:26:45 [info]: GET /api/health-check
+2025-02-24 22:27:19 [info]: POST /api/login
+2025-02-24 22:27:19 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 22:27:19 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 22:27:19 [info]: Disconnected from LDAP
+2025-02-24 22:27:32 [info]: POST /api/login
+2025-02-24 22:27:32 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 22:27:33 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 22:27:33 [info]: Disconnected from LDAP
+2025-02-24 22:27:46 [info]: GET /api/health-check
+2025-02-24 22:28:08 [info]: GET /api/health-check
+2025-02-24 22:28:14 [info]: GET /api/health-check
+2025-02-24 22:28:26 [info]: GET /api/health-check
+2025-02-24 22:28:44 [info]: GET /api/health-check
+2025-02-24 22:29:02 [info]: POST /api/login
+2025-02-24 22:29:02 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 22:29:03 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-24 22:29:03 [info]: Disconnected from LDAP
+2025-02-24 22:29:20 [info]: GET /api/health-check
+2025-02-25 00:06:15 [info]: Servidor rodando na porta 3000
+2025-02-25 00:06:26 [info]: GET /api/health-check
+2025-02-25 00:06:32 [info]: POST /api/login
+2025-02-25 00:06:32 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-25 00:06:33 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-25 00:06:33 [info]: Disconnected from LDAP
+2025-02-25 00:06:50 [info]: GET /api/health-check
+2025-02-25 00:07:05 [info]: Servidor rodando na porta 3000
+2025-02-25 00:07:28 [info]: Servidor rodando na porta 3000
+2025-02-25 00:07:29 [info]: Servidor rodando na porta 3000
+2025-02-25 00:07:32 [info]: Servidor rodando na porta 3000
+2025-02-25 00:08:06 [info]: Servidor rodando na porta 3000
+2025-02-25 00:08:10 [info]: Servidor rodando na porta 3000
+2025-02-25 00:08:13 [info]: Servidor rodando na porta 3000
+2025-02-25 00:08:41 [info]: Servidor rodando na porta 3000
+2025-02-25 00:08:44 [info]: GET /api/health-check
+2025-02-25 00:08:48 [info]: GET /api/health-check
+2025-02-25 00:08:51 [info]: GET /api/health-check
+2025-02-25 00:09:15 [warn]: Potential XSS attack detected: user=<script>
+2025-02-25 00:09:40 [info]: GET /api/health-check
+2025-02-25 20:55:21 [info]: Servidor rodando na porta 3000
+2025-02-25 20:55:34 [info]: POST /api/login
+2025-02-25 20:55:34 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-25 20:55:35 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-25 20:55:35 [info]: Disconnected from LDAP
+2025-02-25 20:55:40 [info]: GET /api/health-check
+2025-02-25 20:55:48 [info]: POST /api/login
+2025-02-25 20:55:48 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-02-25 20:55:48 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-02-25 20:55:49 [info]: Disconnected from LDAP
+2025-02-25 20:56:02 [info]: GET /api/health-check
+2025-02-25 21:19:14 [info]: Refresh token b2eb060aecb20889ab653d935b150d9a5a2a0f64ef204dc53ed23ba41a3950f7110a1e72c2e7c49e85d0c172ded1aceb4ac66e0ca85cae4acd138ed5d2ed7ba2 expired
+2025-02-25 21:19:14 [info]: Refresh token 4f62f6295482edcfc9105712e45a494b91377ceb8fef643f051b5581f72c3cabb705c708f482126adec670fbc401c772574a136c8984290a02f9891c425cac7e expired
+2025-03-02 01:13:44 [info]: Servidor rodando na porta 3000
+2025-03-02 01:14:05 [info]: GET /api/api-docs
+2025-03-02 01:14:09 [info]: GET /api-docs
+2025-03-02 01:14:09 [info]: GET /api-docs/
+2025-03-02 01:14:09 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:14:09 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:14:09 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:14:09 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:14:09 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:15:02 [info]: Servidor rodando na porta 3000
+2025-03-02 01:15:06 [info]: GET /api-docs/
+2025-03-02 01:15:06 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:15:06 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:15:06 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:15:06 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:15:06 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:15:07 [info]: GET /api-docs/
+2025-03-02 01:15:07 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:15:08 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:15:08 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:15:08 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:15:08 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:15:41 [info]: Servidor rodando na porta 3000
+2025-03-02 01:16:10 [info]: Servidor rodando na porta 3000
+2025-03-02 01:16:14 [info]: GET /api-docs/
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:16:14 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:16:14 [info]: GET /api-docs/
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:16:14 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:16:14 [info]: GET /api-docs/
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:16:14 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:16:14 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:16:49 [info]: Servidor rodando na porta 3000
+2025-03-02 01:16:52 [info]: GET /api-docs/
+2025-03-02 01:16:52 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:16:52 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:16:52 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:16:52 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:16:52 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:16:53 [info]: GET /api-docs/
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:16:53 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:16:53 [info]: GET /api-docs/
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:16:53 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:16:53 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:16:56 [info]: Servidor rodando na porta 3000
+2025-03-02 01:16:58 [info]: Servidor rodando na porta 3000
+2025-03-02 01:16:59 [info]: GET /api-docs/
+2025-03-02 01:16:59 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:16:59 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:16:59 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:16:59 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:16:59 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:17:09 [info]: Servidor rodando na porta 3000
+2025-03-02 01:17:11 [info]: GET /api-docs/
+2025-03-02 01:17:11 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:17:11 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:17:11 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:17:11 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:17:11 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:19:22 [info]: Servidor rodando na porta 3000
+2025-03-02 01:20:22 [info]: Servidor rodando na porta 3000
+2025-03-02 01:20:26 [info]: GET /api-docs/
+2025-03-02 01:20:26 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:20:26 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:20:26 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:20:26 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:20:26 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:20:52 [info]: Servidor rodando na porta 3000
+2025-03-02 01:20:55 [info]: GET /api-docs/
+2025-03-02 01:20:55 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:20:55 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:20:55 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:20:55 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:20:55 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:22:08 [info]: Servidor rodando na porta 3000
+2025-03-02 01:22:10 [info]: Servidor rodando na porta 3000
+2025-03-02 01:23:28 [info]: Servidor rodando na porta 3000
+2025-03-02 01:23:35 [info]: GET /api-docs/
+2025-03-02 01:23:35 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:23:35 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:23:35 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:23:35 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:23:35 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:24:15 [info]: GET /api-docs/
+2025-03-02 01:24:15 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:24:15 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:24:15 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:24:15 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:24:15 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:24:39 [info]: Servidor rodando na porta 3000
+2025-03-02 01:24:42 [info]: GET /api-docs/
+2025-03-02 01:24:42 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:24:42 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:24:42 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:24:42 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:24:42 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:25:06 [info]: Servidor rodando na porta 3000
+2025-03-02 01:25:09 [info]: GET /api-docs/
+2025-03-02 01:25:09 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:25:09 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:25:09 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:25:09 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:25:09 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:25:37 [info]: Servidor rodando na porta 3000
+2025-03-02 01:25:40 [info]: GET /api-docs/
+2025-03-02 01:25:40 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:25:40 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:25:40 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:25:40 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:25:40 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:26:21 [info]: Servidor rodando na porta 3000
+2025-03-02 01:26:24 [info]: GET /api-docs/
+2025-03-02 01:26:24 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:26:24 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:26:24 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:26:24 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:26:24 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:26:36 [info]: Servidor rodando na porta 3000
+2025-03-02 01:26:38 [info]: GET /api-docs/
+2025-03-02 01:26:38 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:26:38 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:26:38 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:26:38 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:26:39 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:26:51 [info]: Servidor rodando na porta 3000
+2025-03-02 01:26:53 [info]: GET /api-docs/
+2025-03-02 01:26:53 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:26:53 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:26:53 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:26:53 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:26:53 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:27:13 [info]: Servidor rodando na porta 3000
+2025-03-02 01:27:14 [info]: GET /api-docs/
+2025-03-02 01:27:14 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:27:14 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:27:14 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:27:14 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:27:14 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:27:19 [info]: Servidor rodando na porta 3000
+2025-03-02 01:27:21 [info]: GET /api-docs/
+2025-03-02 01:27:21 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:27:21 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:27:21 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:27:21 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:27:21 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 01:28:31 [info]: Servidor rodando na porta 3000
+2025-03-02 01:28:34 [info]: GET /api-docs/
+2025-03-02 01:28:34 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 01:28:34 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 01:28:34 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 01:28:34 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 01:28:34 [info]: GET /api-docs/favicon-32x32.png
+2025-03-02 17:58:42 [info]: Servidor rodando na porta 3000
+2025-03-02 17:58:45 [info]: Servidor rodando na porta 3000
+2025-03-02 17:58:49 [info]: GET /api-docs/
+2025-03-02 17:58:49 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-02 17:58:49 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-02 17:58:49 [info]: GET /api-docs/swagger-ui.css
+2025-03-02 17:58:49 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-02 18:07:18 [info]: Servidor rodando na porta 3000
+2025-03-03 16:16:00 [info]: Servidor rodando na porta 3000
+2025-03-03 16:17:37 [info]: Servidor rodando na porta 3000
+2025-03-03 16:18:33 [info]: Swagger is running on /api-docs
+2025-03-03 16:18:33 [info]: Servidor rodando na porta 3000
+2025-03-03 16:19:04 [info]: Swagger is running on /api-docs
+2025-03-03 16:19:04 [info]: Servidor rodando na porta 3000
+2025-03-03 16:19:13 [info]: GET /api-docs/
+2025-03-03 16:19:13 [info]: GET /api-docs/swagger-ui.css
+2025-03-03 16:19:13 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-03 16:19:13 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-03 16:19:13 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-03 16:20:09 [info]: Swagger is running on /api-docs
+2025-03-03 16:20:09 [info]: Servidor rodando na porta 3000
+2025-03-03 16:20:34 [info]: GET /api-docs/
+2025-03-03 16:20:34 [info]: GET /api-docs/swagger-ui.css
+2025-03-03 16:20:34 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-03 16:20:34 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-03 16:20:34 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-03 16:20:34 [info]: GET /api-docs/favicon-32x32.png
+2025-03-03 16:20:55 [info]: POST /login
+2025-03-03 16:22:01 [info]: Swagger is running on /api-docs
+2025-03-03 16:22:01 [info]: Servidor rodando na porta 3000
+2025-03-03 16:23:04 [info]: Swagger is running on /api-docs
+2025-03-03 16:23:04 [info]: Servidor rodando na porta 3000
+2025-03-03 16:23:21 [info]: Swagger is running on /api-docs
+2025-03-03 16:23:21 [info]: Servidor rodando na porta 3000
+2025-03-03 16:23:25 [info]: GET /api-docs/
+2025-03-03 16:23:25 [info]: GET /api-docs/swagger-ui.css
+2025-03-03 16:23:25 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-03 16:23:25 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-03 16:23:26 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-03 16:23:26 [info]: GET /api-docs/favicon-32x32.png
+2025-03-03 16:23:33 [info]: POST /api/login
+2025-03-03 16:23:33 [info]: Authenticating to LDAP for user: usuario@email.com
+2025-03-03 16:23:34 [error]: Error occurred while authenticating to LDAP: invalid DN Code: 0x22
+2025-03-03 16:23:34 [info]: Disconnected from LDAP
+2025-03-03 16:24:33 [info]: POST /api/login
+2025-03-03 16:24:33 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-03-03 16:24:33 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-03-03 16:24:33 [info]: Disconnected from LDAP
+2025-03-03 16:24:53 [info]: POST /api/refresh
