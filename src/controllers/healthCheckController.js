@@ -1,6 +1,8 @@
 import logger from "../config/logger.js";
-const packageJson = require("../../package.json");
+import { readFileSync } from "fs";
 
+const rawData = readFileSync("./package.json", "utf-8");
+const packageJson = JSON.parse(rawData);
 /**
  * @param {import("express").Request} _
  * @param {import("express").Response} res

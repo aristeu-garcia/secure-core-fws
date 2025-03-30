@@ -997,3 +997,63 @@ read ECONNRESET
 2025-03-03 16:24:33 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
 2025-03-03 16:24:33 [info]: Disconnected from LDAP
 2025-03-03 16:24:53 [info]: POST /api/refresh
+2025-03-12 21:53:06 [info]: Swagger is running on /api-docs
+2025-03-12 21:53:06 [info]: Servidor rodando na porta 3000
+2025-03-12 21:53:25 [info]: GET /
+2025-03-12 21:53:43 [info]: GET /api-docs/
+2025-03-12 21:53:43 [info]: GET /api-docs/swagger-ui.css
+2025-03-12 21:53:43 [info]: GET /api-docs/swagger-ui-bundle.js
+2025-03-12 21:53:43 [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-03-12 21:53:43 [info]: GET /api-docs/swagger-ui-init.js
+2025-03-12 21:53:43 [info]: GET /api-docs/favicon-32x32.png
+2025-03-12 21:59:02 [info]: Swagger is running on /api-docs
+2025-03-12 21:59:02 [info]: Servidor rodando na porta 3000
+2025-03-12 21:59:20 [info]: Swagger is running on /api-docs
+2025-03-12 21:59:20 [info]: Servidor rodando na porta 3000
+2025-03-12 22:00:25 [info]: POST /api/login
+2025-03-12 22:00:25 [info]: Authenticating to LDAP for user: usuario@email.com
+2025-03-12 22:00:25 [error]: Error occurred while authenticating to LDAP: invalid DN Code: 0x22
+2025-03-12 22:00:25 [info]: Disconnected from LDAP
+2025-03-12 22:03:43 [info]: Swagger is running on /api-docs
+2025-03-12 22:03:43 [info]: Servidor rodando na porta 3000
+2025-03-12 22:14:32 [info]: POST /api/login
+2025-03-12 22:14:32 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-03-12 22:14:32 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-03-12 22:14:32 [info]: Disconnected from LDAP
+2025-03-12 22:15:15 [info]: GET /api/health-check
+2025-03-12 22:15:40 [info]: Swagger is running on /api-docs
+2025-03-12 22:15:40 [info]: Servidor rodando na porta 3000
+2025-03-12 22:15:46 [info]: GET /api/health-check
+2025-03-12 22:16:17 [info]: GET /api/health-check
+2025-03-12 22:16:25 [info]: GET /api/health-check
+2025-03-12 22:17:00 [info]: POST /api/login
+2025-03-12 22:17:00 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-03-12 22:17:16 [info]: Swagger is running on /api-docs
+2025-03-12 22:17:16 [info]: Servidor rodando na porta 3000
+2025-03-12 22:17:20 [info]: POST /api/login
+2025-03-12 22:17:20 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-03-12 22:17:40 [info]: POST /api/login?user=%3Cscript%3E
+2025-03-12 22:17:40 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-03-12 22:17:59 [info]: POST /api/login
+2025-03-12 22:17:59 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-03-12 22:18:16 [warn]: Potential XSS attack detected: password=<script>
+2025-03-12 22:18:35 [error]: Error occurred while authenticating to LDAP: connect ETIMEDOUT 54.80.223.88:389
+2025-03-12 22:18:35 [info]: Disconnected from LDAP
+2025-03-12 22:18:40 [warn]: Potential SQL injection detected: password=select *
+2025-03-12 22:18:55 [error]: Error occurred while authenticating to LDAP: connect ETIMEDOUT 54.80.223.88:389
+2025-03-12 22:18:55 [info]: Disconnected from LDAP
+2025-03-12 22:19:14 [error]: Error occurred while authenticating to LDAP: connect ETIMEDOUT 54.80.223.88:389
+2025-03-12 22:19:14 [info]: Disconnected from LDAP
+2025-03-30 15:00:09 [info]: Swagger is running on /api-docs
+2025-03-30 15:00:09 [info]: Servidor rodando na porta 3000
+2025-03-30 15:01:30 [info]: Swagger is running on /api-docs
+2025-03-30 15:01:30 [info]: Servidor rodando na porta 3000
+2025-03-30 15:01:50 [warn]: Potential SQL injection detected: password=select *
+2025-03-30 15:02:05 [info]: POST /api/login
+2025-03-30 15:02:05 [info]: Authenticating to LDAP for user: cn=read-only-admin,dc=example,dc=com
+2025-03-30 15:02:06 [info]: Authenticated to LDAP successfully for user: cn=read-only-admin,dc=example,dc=com
+2025-03-30 15:02:06 [info]: Disconnected from LDAP
+2025-03-30 15:02:44 [info]: GET /api/health-check
+2025-03-30 15:02:58 [info]: Swagger is running on /api-docs
+2025-03-30 15:02:58 [info]: Servidor rodando na porta 3000
+2025-03-30 15:03:02 [info]: GET /api/health-check
